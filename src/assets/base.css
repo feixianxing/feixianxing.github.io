@@ -1,0 +1,9 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --main-color: #004694;
+  --drop-shadow: #74a0d3;
+  --box-shadow: #00000020;
+  --border-color: #AEB6AD;
+  --font-color: #141414;
+  --sub-font-color: #434343;
+}
